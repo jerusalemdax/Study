@@ -1,0 +1,4 @@
+project (Pratice)
+
+ADD_SUBDIRECTORY(0_1)
+ADD_SUBDIRECTORY(1_1)

@@ -1,3 +1,1 @@
-cmake_minimum_required (VERSION 2.8)
-project (hello)
-add_executable(hello main.cpp)
+add_executable(0_1 main.cpp)
